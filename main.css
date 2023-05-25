@@ -13,14 +13,15 @@
 
    #conteudo {
 
-    
+    position:absolute;
     height: 200px;
+    width: 1195px;
     padding: 10px;
     background-color: yellow;
-    left: 100px;
+    right: 80px;
     top:20px;
 
-
+    transform: translate( -65px, -10px);
 
    }
 
